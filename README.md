@@ -1,1 +1,1 @@
-Checkout [blog post about this script](http://thebestsolution.org/rsync-backup-script-bash/)
+Linux Backup Routinge as seen [here](http://thebestsolution.org/rsync-backup-script-bash/)
